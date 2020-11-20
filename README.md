@@ -1,2 +1,3 @@
-# ds-21-bw-project-fire
-2nd unit build week project, fitting a tree model and regression model
+# Building a model on 'monthly fire counts' in Colorado to see if we can get accurate fire count predictions  
+
+No blog yet
